@@ -1,0 +1,9 @@
+rootProject.name = 'ee.ttu.web'
+include 'main-app'
+include 'common'
+include 'order-details'
+include 'remote-ttu-mock'
+include 'couriers'
+include 'soap-service'
+include 'order-finish-app'
+
